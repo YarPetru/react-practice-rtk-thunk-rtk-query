@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Ronald Jakubowski Sr.",
+      "id": 4
+    },
+    {
+      "name": "Marilyn Denesik",
+      "id": 5
+    },
+    {
+      "name": "Caroline Greenholt PhD",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Elegant Steel Shirt",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Cotton Chips",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Cotton Fish",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Bronze Cheese",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Small Cotton Keyboard",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Refined Rubber Chicken",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Plastic Ball",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Rubber Chair",
+      "id": 25
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Metal Shirt",
+      "id": 26
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=13446",
+      "id": 1
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=32101",
+      "id": 5
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=97827",
+      "id": 6
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=39844",
+      "id": 7
+    }
+  ]
+}
